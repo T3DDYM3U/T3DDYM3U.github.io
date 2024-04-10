@@ -41,6 +41,14 @@ https://v.didivod.com/20220817/VjqTvnaA/index.m3u8
 https://v.didivod.com/20220817/KLe5s3wJ/index.m3u8
 #EXTINF:0 group-title="didivod",HEYZO 1530
 https://v.didivod.com/20220817/8BQLHNkF/index.m3u8
+#EXTINF:0 group-title="didivod",HEYZO 0252
+http://video1.rhsj520.com:8091/nyrm3/heyzo222/heyzo_hd_0252_full/1500kb/hls/index.m3u8
+#EXTINF:0 group-title="didivod",HZGD 095
+http://video1.rhsj520.com:8091/nyrm3/zzmmx/hzgd-095/1500kb/hls/index.m3u8
+#EXTINF:0 group-title="didivod",JMD 133
+http://video1.rhsj520.com:8091/nyrm3/zzmmx/jmd-133/1500kb/hls/index.m3u8
+#EXTINF:0 group-title="didivod",SGV 003C
+http://videocdn.quweikm.com:8091/20180730/SGV-003c/index.m3u8
 
 #EXTINF:0 group-title="imgscloud",请在午餐后操我
 http://12156.vod.redtraffic.xyz/ph5b548f6dd8941/play.m3u8
