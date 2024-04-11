@@ -8002,7 +8002,7 @@ http://vod.mycamtv.net/3997.m3u8
 http://vod.mycamtv.net/3998.m3u8
 #EXTINF:0 group-title="03000 - 04000",Video 03999  
 http://vod.mycamtv.net/3999.m3u8
-#EXTINF:0 group-title="04000 - 05000",Video 04000  
+#EXTINF:0 group-title="03000 - 04000",Video 04000  
 http://vod.mycamtv.net/4000.m3u8
 
 #EXTINF:0 group-title="04000 - 05000",Video 04001  
