@@ -79,6 +79,7 @@ http://vod.mycamtv.net/38.m3u8
 http://vod.mycamtv.net/39.m3u8
 #EXTINF:0 group-title="00001 - 01000",Video 00040  
 http://vod.mycamtv.net/40.m3u8
+#EXTINF:0 group-title="00001 - 01000",Video 00041  
 http://vod.mycamtv.net/41.m3u8
 #EXTINF:0 group-title="00001 - 01000",Video 00042  
 http://vod.mycamtv.net/42.m3u8
@@ -118,6 +119,7 @@ http://vod.mycamtv.net/58.m3u8
 http://vod.mycamtv.net/59.m3u8
 #EXTINF:0 group-title="00001 - 01000",Video 00060  
 http://vod.mycamtv.net/60.m3u8
+#EXTINF:0 group-title="00001 - 01000",Video 00061  
 http://vod.mycamtv.net/61.m3u8
 #EXTINF:0 group-title="00001 - 01000",Video 00062  
 http://vod.mycamtv.net/62.m3u8
